@@ -1,0 +1,12 @@
+{
+  "name": "Solana Twitter Like",
+  "symbol": "STWLK",
+  "description": "A like token for the Solana Twitter app",
+  "image": "https://raw.githubusercontent.com/vmirinav/ras-assets/0723fa2391bb13010480f29458c48c2bd1782ecf/assets/trainningbkk.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Like Token"
+    }
+  ]
+}
